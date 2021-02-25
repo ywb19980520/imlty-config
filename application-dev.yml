@@ -1,4 +1,5 @@
 mysql:
   user: root_ next_test
 person:
-  name: imlty_next_new
+  name: imlty_next_new,
+  slogan: 中国梦！
